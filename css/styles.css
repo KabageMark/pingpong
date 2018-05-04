@@ -2,12 +2,29 @@
   background-image: url("../img/ping.jpg");
   background-repeat: no-repeat;
   text-align: center;
+  font-family: 'Orbitron', sans-serif;
+
   /*font-size: 68px;*/
 
 
 }
 .cool1{
-  margin-left: 500px;
-  margin-right: 500px;
+  margin-left: 300px;
+  margin-right: 300px;
+  font-family: 'Orbitron', sans-serif;
+  border-style: outset;
+  border-color: black;
 
+}
+.butn1{
+ height: 50px;
+ width: 50px;
+ background-color: #F5ECAA;
+ border-radius: 50px;
+}
+
+.butn2{
+  height: 30px;
+  width: 30px;
+  border-radius: 50px;
 }
