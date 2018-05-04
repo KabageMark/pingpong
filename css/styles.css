@@ -1,19 +1,22 @@
 .jumbotron{
   background-image: url("../img/ping.jpg");
   background-repeat: no-repeat;
+  background-color: #8FE9F9;  
   text-align: center;
   font-family: 'Orbitron', sans-serif;
-
-  /*font-size: 68px;*/
+  font-size: 68px;
 
 
 }
 .cool1{
   margin-left: 300px;
   margin-right: 300px;
+  padding-left: 200px;
+  padding-right: 200px;
   font-family: 'Orbitron', sans-serif;
   border-style: outset;
   border-color: black;
+  background-color: #8FE9F9;
 
 }
 .butn1{
