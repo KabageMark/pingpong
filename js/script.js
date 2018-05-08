@@ -18,7 +18,7 @@ function ping(number) {
 $(document).ready(function() {
   $("#pingpong").submit(function(event) {
     event.preventDefault();
-    $("result").empty();
+    $("#result").empty();
     var result = parseInt($("input#index").val());
     var results = ping(result);
     results.forEach(function(results) {
